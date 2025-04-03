@@ -1,0 +1,38 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Services - Vaada and Associates</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Our Services</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="reviews.html">Client Reviews</a></li>
+            </ul>
+        </nav>
+    </header><main>
+    <section>
+        <h2>Our Expertise</h2>
+        <ul>
+            <li>Income Tax Return (ITR) Filing</li>
+            <li>GST Return Services</li>
+            <li>Tax Consultation</li>
+            <li>GST Audits</li>
+            <li>Bank Audits</li>
+        </ul>
+        <p>We provide professional financial services to ensure compliance, accuracy, and efficiency in all your tax and audit needs.</p>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2025 Vaada and Associates | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
