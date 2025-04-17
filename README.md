@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vaada and Associates Name | Professional Accounting Services</title>
+    <title>Your CA Firm Name | Professional Accounting Services</title>
     <style>
         :root {
             --primary-color: #2c3e50;
@@ -421,7 +421,6 @@
                 <li><a href="#services">Services</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#team">Our Team</a></li>
-                <li><a href="#testimonials">Testimonials</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
             <div class="hamburger">
@@ -436,7 +435,7 @@
     <section class="hero" id="home">
         <div class="container">
             <div class="hero-content">
-                <h1>Professional Accounting Services for Your Business</h1>
+                <h1>Vaada and Associates</h1>
                 <p>We provide expert financial guidance to help your business thrive in today's complex economic landscape.</p>
                 <a href="#contact" class="btn">Schedule a Consultation</a>
             </div>
@@ -450,13 +449,13 @@
             <div class="services-grid">
                 <div class="service-card">
                     <div class="service-icon">📊</div>
-                    <h3>Tax Planning & Preparation</h3>
-                    <p>Strategic tax planning and preparation services to minimize your tax burden and ensure compliance with all regulations.</p>
+                    <h3>Income Tax Return Filing</h3>
+                    <p>Expert preparation and filing of income tax returns for individuals, businesses, and organizations to ensure compliance and maximize deductions.</p>
                 </div>
                 <div class="service-card">
                     <div class="service-icon">📈</div>
-                    <h3>Financial Advisory</h3>
-                    <p>Expert financial guidance to help you make informed decisions for sustainable business growth and profitability.</p>
+                    <h3>GST Returns</h3>
+                    <p>Comprehensive GST return filing services to ensure timely compliance with GST regulations and optimal tax positioning for your business.</p>
                 </div>
                 <div class="service-card">
                     <div class="service-icon">📝</div>
@@ -549,50 +548,7 @@
         </div>
     </section>
 
-    <!-- Testimonials Section -->
-    <section class="section testimonials" id="testimonials">
-        <div class="container">
-            <h2 class="section-title">What Our Clients Say</h2>
-            <div class="testimonial-grid">
-                <div class="testimonial-card">
-                    <div class="testimonial-text">
-                        "Vaada and Associates has been instrumental in helping our business navigate complex tax regulations. Their expert advice has saved us both time and money."
-                    </div>
-                    <div class="client-info">
-                        <div class="client-image"></div>
-                        <div>
-                            <h4>Robert Johnson</h4>
-                            <p>CEO, Johnson Enterprises</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="testimonial-card">
-                    <div class="testimonial-text">
-                        "We've been working with Vaada and Associates for over 5 years now, and their service has been consistently excellent. Their attention to detail and proactive approach sets them apart."
-                    </div>
-                    <div class="client-info">
-                        <div class="client-image"></div>
-                        <div>
-                            <h4>Linda Miller</h4>
-                            <p>Owner, Miller Retail Group</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="testimonial-card">
-                    <div class="testimonial-text">
-                        "As a small business owner, I was struggling with financial management until I found Vaada and Associates. Their guidance has been invaluable to our growth."
-                    </div>
-                    <div class="client-info">
-                        <div class="client-image"></div>
-                        <div>
-                            <h4>David Thompson</h4>
-                            <p>Founder, Thompson Design</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    <!-- Testimonials Section Removed as requested -->
 
     <!-- Contact Section -->
     <section class="section" id="contact">
@@ -602,7 +558,56 @@
                 <div class="contact-info">
                     <h3>Contact Information</h3>
                     <div class="contact-details">
-                        <p><span class="contact-icon">📍</span> 123 Business Avenue, Suite 200, City, State 12345</p>
+                        <p><span class="contact-icon">📍</span> [Your office location - please replace with your actual address]</p>
                         <p><span class="contact-icon">📞</span> (123) 456-7890</p>
                         <p><span class="contact-icon">📧</span> info@yourcafirm.com</p>
-               
+                        <p><span class="contact-icon">🕒</span> Monday - Friday: 9:00 AM - 5:00 PM</p>
+                    </div>
+                    <h3>Connect With Us</h3>
+                    <div class="social-links">
+                        <!-- Social media icons would go here -->
+                    </div>
+                </div>
+                <div class="contact-form">
+                    <form>
+                        <div class="form-group">
+                            <label for="name">Name</label>
+                            <input type="text" id="name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" id="email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="phone">Phone</label>
+                            <input type="tel" id="phone">
+                        </div>
+                        <div class="form-group">
+                            <label for="subject">Subject</label>
+                            <input type="text" id="subject">
+                        </div>
+                        <div class="form-group">
+                            <label for="message">Message</label>
+                            <textarea id="message" required></textarea>
+                        </div>
+                        <button type="submit" class="btn">Send Message</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-column">
+                    <h3>Vaada and Associates</h3>
+                    <p>Professional accounting services tailored to your business needs.</p>
+                </div>
+                <div class="footer-column">
+                    <h3>Quick Links</h3>
+                    <ul class="footer-links">
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#services">Services</a></li>
+                    
