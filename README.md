@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -509,9 +508,9 @@
                         <!-- Placeholder for team member image -->
                     </div>
                     <div class="team-info">
-                        <h3>John Smith</h3>
+                        <h3>NITISH AGRAWAL</h3>
                         <p>Managing Partner</p>
-                        <p>With over 20 years of experience in accounting and finance, John leads our team with expertise and vision.</p>
+                        <p>Leads our team with vision and expertise in software and finance.</p>
                     </div>
                 </div>
                 <div class="team-member">
@@ -519,9 +518,9 @@
                         <!-- Placeholder for team member image -->
                     </div>
                     <div class="team-info">
-                        <h3>Sarah Johnson</h3>
+                        <h3>ADARSH AGRAWAL</h3>
                         <p>Tax Specialist</p>
-                        <p>Sarah's expertise in tax planning has helped countless clients optimize their tax positions and save money.</p>
+                        <p>Adarsh's expertise in tax planning has helped countless clients optimize their tax positions and save money.</p>
                     </div>
                 </div>
                 <div class="team-member">
@@ -529,9 +528,9 @@
                         <!-- Placeholder for team member image -->
                     </div>
                     <div class="team-info">
-                        <h3>Michael Chen</h3>
+                        <h3>ADITI GOYAL</h3>
                         <p>Audit Manager</p>
-                        <p>Michael ensures all our audit processes meet the highest standards of accuracy and compliance.</p>
+                        <p>Aditi ensures all our audit processes meet the highest standards of accuracy and compliance.</p>
                     </div>
                 </div>
                 <div class="team-member">
@@ -559,9 +558,9 @@
                     <h3>Contact Information</h3>
                     <div class="contact-details">
                         <p><span class="contact-icon">📍</span> [Your office location - please replace with your actual address]</p>
-                        <p><span class="contact-icon">📞</span> (123) 456-7890</p>
-                        <p><span class="contact-icon">📧</span> info@yourcafirm.com</p>
-                        <p><span class="contact-icon">🕒</span> Monday - Friday: 9:00 AM - 5:00 PM</p>
+                        <p><span class="contact-icon">📞</span>+91 7828780780</p>
+                        <p><span class="contact-icon">📧</span>https://nattu304.github.io/vaadaandassociates/</p>
+                        <p><span class="contact-icon">🕒</span> Monday - Friday: 9:00 AM - 6:00 PM</p>
                     </div>
                     <h3>Connect With Us</h3>
                     <div class="social-links">
